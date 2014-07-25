@@ -1,4 +1,4 @@
 opshell
 =======
 
-Operation shell scripts
+Operating shell scripts
